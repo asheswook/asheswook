@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </p>
 취미로 개발을 하는 프론트엔드, 백엔드 개발자 입니다.
-<br>👉 MY GIST 
+<br>
 <a href="https://gist.github.com/asheswook/">
-<img src="https://img.shields.io/badge/go gist-ffde5b?style=flat-square&logo=gist&logoColor=4f4f4f"/>
+<img src="https://img.shields.io/badge/👉 MY GIST-ffde5b?style=flat-square&logo=gist&logoColor=4f4f4f"/>
 </a>
