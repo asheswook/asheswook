@@ -9,5 +9,5 @@
 취미로 개발을 하는 프론트엔드, 백엔드 개발자 입니다.
 <br>
 <a href="https://gist.github.com/asheswook/">
-asheswook GIST
+~~~asheswook GIST~~~
 </a>
