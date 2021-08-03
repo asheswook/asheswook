@@ -1,7 +1,7 @@
 # 안녕하세요, asheswook입니다.
 <p align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asheswook&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&orgs=twicenest,twicewiki-team) </p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asheswook&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&orgs=twicenest,TWICEWIKI-TEAM) </p>
 
 ## My inclination
 * 💻 나도 모르게 개발에 몰두해있는 순간을 즐깁니다.
