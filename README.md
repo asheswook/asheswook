@@ -9,12 +9,11 @@
 
 ## Interest
  * **Swift**
+ * **React**
  * Python
  * HTML/CSS/JS
- * Typescript
-   * Node.js
+ * **Typescript**
    * Express.js
-   * Vue.js
 ---
 * Machine learning
 * Web
